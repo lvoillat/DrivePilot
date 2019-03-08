@@ -40,7 +40,8 @@ public class Book
 	/**
 	 * Returns author of this book.
 	   * @wi.implements DP-532
-	 */	 
+	 */
+	 
      public String getAuthor()
     {
         return author;
