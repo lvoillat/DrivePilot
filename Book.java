@@ -41,7 +41,6 @@ public class Book
 	 * Returns author of this book.
 	   * @wi.implements DP-532
 	 */	 
-	 
      public String getAuthor()
     {
         return author;
@@ -72,8 +71,7 @@ public class Book
 	/**
 	 * Returns author of this book.
 	   * @wi.implements DP-532
-	 */    
-	 
+	 */    	 
      public void setAuthor(String author)
     {
        this.author=author;
