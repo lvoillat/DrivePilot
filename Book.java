@@ -37,11 +37,7 @@ public class Book
         return title;
     }
     
-	/**
-	 * Returns author of this book.
-	   * @wi.implements DP-532
-	 */	 
-     public String getAuthor()
+    public String getAuthor()
     {
         return author;
     }
@@ -67,11 +63,7 @@ public class Book
     {
         this.title=title;
     }
-
-	/**
-	 * Returns author of this book.
-	   * @wi.implements DP-532
-	 */    	 
+ 	 
      public void setAuthor(String author)
     {
        this.author=author;
