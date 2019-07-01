@@ -46,6 +46,10 @@ public class Book
     {
         return author;
     }
+		/**
+	 * Returns year of this book.
+	   * @wi.implements DP-533
+	 */ 
     public int getYear()
     {
         return year;
