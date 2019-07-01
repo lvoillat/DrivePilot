@@ -68,6 +68,7 @@ public class Book
 	 * Returns author of this book.
 	   * @wi.implements DP-798
 	 */
+
     public void setTitle(String title)
     {
         this.title=title;
