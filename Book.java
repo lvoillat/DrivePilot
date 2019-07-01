@@ -64,15 +64,7 @@ public class Book
      * the state of the object.
      */
 
-	/**
-	 * Returns author of this book.
-	   * @wi.implements DP-798
-	 */
 
-    public void setTitle(String title)
-    {
-        this.title=title;
-    }
 	
 	/**
 	 * Set author of this book.
