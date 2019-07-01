@@ -70,7 +70,7 @@ public class Book
 
 	/**
 	 * Returns author of this book.
-	   * @wi.implements DP-798 
+	   * @wi.implements DP-802 
 	 */
     public void setTitle(String title)
     {
