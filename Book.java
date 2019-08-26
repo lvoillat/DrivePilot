@@ -40,7 +40,7 @@ public class Book
 
 	/**
 	 * Returns author of this book.
-	   * @wi.implements DP-532
+	   * @wi.implements DP-808
 	 */ 
     public String getAuthor()
     {
@@ -79,7 +79,7 @@ public class Book
 	
 	/**
 	 * Set author of this book.
-	   * @wi.implements DP-532
+	   * @wi.implements DP-808
 	 */    	 
     public void setAuthor(String author)
     {
