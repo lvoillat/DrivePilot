@@ -69,7 +69,7 @@ public class Book
      */
 
 	/**
-	 * Returns author of this book.
+	 * Returns title of this book.
 	   * @wi.implements DP-802 
 	 */
     public void setTitle(String title)
